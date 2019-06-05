@@ -1,0 +1,1 @@
+ < ?php header("Location: https://forms.gle/KemRXVkypPbHwogm7"); ?>
